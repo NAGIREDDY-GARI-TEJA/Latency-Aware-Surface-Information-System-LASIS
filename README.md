@@ -1,6 +1,5 @@
 # LASIS - Latency-Aware Surface Information System
 
-![LASIS Banner](https://via.placeholder.com/1000x200?text=Latency-Aware+Surface+Information+System+(LASIS))
 
 🚧 **Confidential Research Project** — Code not publicly available. This repository is for showcasing methodology and results only.
 
