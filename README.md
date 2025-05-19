@@ -96,10 +96,6 @@ Each includes:
 | Android Mobile Device | Compressed U-Net  | 65%       | 94%      | 0.5 sec        |
 
 
-
-![image](htt![image](https://github.com/user-attachments/assets/860fe4c2-9c0d-4c5d-ac2c-b8218c32990c)
-
-
 ![image](https://github.com/user-attachments/assets/5b161135-ceee-4265-b02d-3613e313f919)
 
 
