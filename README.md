@@ -97,7 +97,10 @@ Each includes:
 
 
 
-![Segmentation Result](https://via.placeholder.com/600x300?text=Sample+Segmentation+Output)
+![image](htt![image](https://github.com/user-attachments/assets/860fe4c2-9c0d-4c5d-ac2c-b8218c32990c)
+![image](https://github.com/user-attachments/assets/5b161135-ceee-4265-b02d-3613e313f919)
+
+
 
 ---
 
